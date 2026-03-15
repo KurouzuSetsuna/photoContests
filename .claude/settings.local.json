@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:personal.canon.jp)",
+      "WebFetch(domain:nij.nikon.com)",
+      "WebFetch(domain:www.nikon-photocontest.com)",
+      "WebFetch(domain:www.tamron.com)",
+      "Bash(python scraper.py:*)",
+      "Bash(python:*)",
+      "Bash(git commit:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
